@@ -1,0 +1,56 @@
+
+header{
+    margin: 0;padding: 0;
+background-color: rgb(223, 215, 208);
+color: black;
+ text-align: center; 
+ height:max-content;
+}
+ main{
+     
+    background-color: azure; 
+ }
+
+h2{
+    margin-top: 0;
+    text-align: center;
+border: 1px black solid;
+}
+.ayush{
+    border: 1px black solid;
+    background-color: peachpuff;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.frame{
+width: 556px;
+height: 550px;
+border: 1px black solid ; border-radius:100px;
+margin: auto;
+padding: 15px 10px;  
+background-color: antiquewhite;
+}
+img{
+    width: 100%;
+  border-radius: 100px;
+    height: 100%;
+}
+.so{
+    
+    border: 1px black solid;
+    background-color: peachpuff;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+.refer{
+    border: 1px black solid;
+    background-color: rgb(175, 128, 96);
+    font-family: 'Vujahday Script', cursive;
+    text-align: center;
+}
+footer{
+    background-color: pink;
+    text-decoration: solid;
+    font-family: 'Fira Sans', sans-serif;
+text-align: center;
+}

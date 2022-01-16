@@ -1,0 +1,88 @@
+header{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.a{
+    background-color: black;
+    color: white;
+    margin: 0;padding: 0;
+}
+.b{
+    background-color: black;
+    color: white;
+    margin: 0;padding: 0;
+}
+.c{
+    background-color: black;
+    color: white;
+    margin: 0;padding: 0;
+}
+.img1{
+    background-image: url(sixteen-miles-out-Iz6x7yHMkQA-unsplash.jpg) ;
+    height: 400px;
+}
+.img2{
+    background-image: url(saad-chaudhry-Ma7RbOxSDrA-unsplash.jpg);
+    height: 400px;
+}
+.img3{
+    background-image: url(look-up-look-down-photography-Rj7SQ-15Gsc-unsplash.jpg);
+    height: 400px;
+
+}
+.img4{
+    background-image: url(clay-banks-WQg-9Xt3X5o-unsplash.jpg);
+    height: 400px;
+}
+.img1,.img2,.img4,.img3{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.section2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 105px;
+}
+.section3{
+    text-align: center;
+    background-color: rgb(6, 103, 110);
+    color: white;
+    padding: 105px;
+}
+.section4{
+    text-align: center;
+    background-color: rgb(107, 180, 180);
+    color: white;
+    padding: 75px;
+    margin: auto;
+}
+.section5{
+    text-align: center;
+    background-color: rgb(247, 201, 149);
+    color: white;
+    padding: 105px;
+
+}
+h3{
+ 
+    font-size: 40px;
+}
+.p{
+    font-family: 'GothicE', cursive;
+    background-color: #fff;
+    color: black;
+    height: 77px;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(19, 3, 3);
+    color: #fff;
+    text-align: center;
+    
+}
