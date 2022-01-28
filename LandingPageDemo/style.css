@@ -1,0 +1,91 @@
+.head1{
+  background-image: url(aleksandra-boguslawska-MS7KD9Ti7FQ-unsplash.jpg);
+  text-align: center;
+  height: 400px;
+  background-size: cover;
+  padding: 36px;
+}
+.read{
+  display: inline-block;
+background-color: aliceblue;
+border: 0.02mm black solid;
+border-radius: 7px;
+margin: 6px;
+padding: 4px;
+
+}
+.e{
+      text-align: center;
+      font-size: larger;
+      font-family: 'Mochiy Pop P One', sans-serif;
+      padding: 21px;
+}
+.set1{
+   text-align: center;
+   padding: 40px;
+}
+.set2{
+  background-color: rgb(204, 245, 245);
+  text-align: center;
+  padding: 40px;
+}
+.container{
+  display: grid;
+grid-column-gap: 36px;
+grid-template-columns: auto auto auto;
+background-color: rgb(173, 173, 173);
+
+}
+.box1{
+  padding: 28px;
+  margin-left: 77px;
+  margin-top: 51px;
+  margin-bottom: 51px;
+  background-color: aliceblue;
+}
+.section1{
+   text-align: center;
+}
+.s1{
+  background-image: url(jack-finnigan-wSW4w6uyrfo-unsplash.jpg);
+height: 157px;
+margin: 38px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
+.box2{
+  padding: 28px;
+  background-color: aliceblue;
+  margin-bottom: 51px; 
+margin-top: 51px;
+}
+
+.img1{
+  background-image: url(crew-xCmvrpzctaQ-unsplash.jpg);
+height: 157px;
+margin: 38px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
+.box3{
+  padding: 28px;
+  background-color: aliceblue;
+  margin-right: 77px;
+margin-top: 51px;
+margin-bottom: 51px;
+}
+.img2{
+  background-image: url(jonathan-j-castellon-be8AmxavYp8-unsplash.jpg);
+height: 157px;
+margin: 38px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
