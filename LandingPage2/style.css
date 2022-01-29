@@ -1,0 +1,98 @@
+.whole{
+    background-image: url(erik-odiin-jbQvJx2EWnU-unsplash.jpg);
+    height: 470px;
+background-size: cover;
+text-align: center;
+padding: 10px;
+line-height: 52px;
+}
+.fr1{
+    padding-top: 61px;
+    color: white;
+}
+.fr2{
+    padding-left: 1px;
+margin-bottom: -7px;
+border: 0.02mm aliceblue solid;
+padding-bottom: 19px;
+padding-right: 28px;
+padding-left: 28px;
+padding-top: 19px;
+}
+.set1{
+    background-color: rgb(177, 252, 255);
+    padding-top: 48px;
+padding-bottom: 48px;
+padding-right: 34px;
+padding-left: 34px;
+    text-align: center;
+}
+h2{
+    font-family: 'Aclonica', sans-serif;
+}
+.set2{
+    background-color: rgb(177, 252, 255);
+    text-align: center;
+    padding-top: 48px;
+padding-bottom: 48px;
+padding-right: 34px;
+padding-left: 34px;
+}
+.img{
+    background-image: url(rob-wicks-HYtjXrhkTqQ-unsplash.jpg);
+    background-attachment: fixed;
+background-size: cover;
+height: 427px;
+background-repeat: no-repeat;
+}
+.set3{
+    background-color: rgb(179, 201, 216);
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.g1{
+    margin-top: 33px;
+margin-left: 55px;
+margin-bottom: 33px;
+text-align: center;
+background-color: floralwhite;padding-bottom: 47px;
+}
+.g2{
+    margin: 33px 33px;
+    text-align: center;
+background-color: floralwhite;padding-bottom: 47px;
+}
+.g3{
+    margin-top: 33px;
+margin-right: 55px;
+margin-bottom: 33px;
+text-align: center;
+background-color: floralwhite;
+padding-bottom: 47px;
+}
+.i1{
+    background-image: url(sixteen-miles-out-1N8e3hMTAb8-unsplash.jpg);
+    margin: 43px;
+height: 181px;
+background-position: center;
+background-size: contain;
+}
+.i3{
+    background-image: url(shaylyn-5MxQ-LlH9L8-unsplash.jpg);
+    margin: 43px;
+height: 181px;
+background-position: center;
+background-size: contain;
+}
+.i2{
+    background-image: url(marta-filipczyk-_otMLDN_evE-unsplash.jpg);
+    margin: 43px;
+height: 181px;
+background-position: center;
+background-size: contain;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
